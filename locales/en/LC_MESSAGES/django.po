@@ -1,0 +1,157 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-31 14:13+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: portfolio/settings.py:115
+#, fuzzy
+#| msgid "O'zbekcha"
+msgid "O'zbekcha 🇺🇿"
+msgstr "Uzbek"
+
+#: portfolio/settings.py:116
+#, fuzzy
+#| msgid "English"
+msgid "English 🇺🇸"
+msgstr "English"
+
+#: templates/index.html:14
+msgid "I'm"
+msgstr "I'm"
+
+#: templates/index.html:14
+msgid "Developer, Freelancer"
+msgstr "Developer, Freelancer"
+
+#: templates/index.html:25 templates/layouts/header.html:19
+msgid "About"
+msgstr "About"
+
+#: templates/index.html:26
+msgid ""
+"Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid "
+"fuga eum quidem. Sit\n"
+"                        sint consectetur velit. Quisquam quos quisquam "
+"cupiditate. Et nemo qui impedit suscipit alias\n"
+"                        ea. Quia fugiat sit in iste officiis commodi quidem "
+"hic quas."
+msgstr ""
+
+#: templates/index.html:35
+msgid "Web Developer."
+msgstr ""
+
+#: templates/index.html:37
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut\n"
+"                            labore et dolore\n"
+"                            magna aliqua."
+msgstr ""
+
+#: templates/index.html:44
+msgid "Birthday:"
+msgstr "Birthday:"
+
+#: templates/index.html:45
+msgid "1 May 1995"
+msgstr "9 august 1999"
+
+#: templates/index.html:46
+msgid "Website:"
+msgstr "Website:"
+
+#: templates/index.html:48
+msgid "Phone:"
+msgstr "Phone:"
+
+#: templates/index.html:50
+msgid "City:"
+msgstr "City:"
+
+#: templates/index.html:51
+msgid "Tashkent"
+msgstr ""
+
+#: templates/index.html:56
+msgid "Age:"
+msgstr "Age:"
+
+#: templates/index.html:59
+msgid "Email:"
+msgstr "Email:"
+
+#: templates/index.html:67
+msgid ""
+"Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. "
+"Quisquam sunt\n"
+"                            adipisci omnis et ut. Nulla accusantium dolor "
+"incidunt officia tempore. Et eius omnis.\n"
+"                            Cupiditate ut dicta maxime officiis quidem quia. "
+"Sed et consectetur qui quia repellendus\n"
+"                            itaque neque. Aliquid amet quidem ut quaerat "
+"cupiditate. Ab et eum qui repellendus omnis\n"
+"                            culpa magni laudantium dolores."
+msgstr ""
+
+#: templates/index.html:84
+msgid "Facts"
+msgstr "Facts"
+
+#: templates/index.html:97
+msgid "Happy Clients"
+msgstr "Happy Clients"
+
+#: templates/index.html:107
+msgid "Projects"
+msgstr "Projects"
+
+#: templates/index.html:117
+msgid "Hours Of Support"
+msgstr "Hours Of Support"
+
+#: templates/index.html:127
+msgid "Hard Workers"
+msgstr "Hard Workers"
+
+#: templates/index.html:141
+msgid "Skills"
+msgstr "Skills"
+
+#: templates/layouts/header.html:18
+msgid "Home"
+msgstr "Home"
+
+#: templates/layouts/header.html:20
+msgid "Resume"
+msgstr "Resume"
+
+#: templates/layouts/header.html:21
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: templates/layouts/header.html:22
+msgid "Services"
+msgstr "Services"
+
+#: templates/layouts/header.html:23
+msgid "Contact"
+msgstr "Contact"
+
+#~ msgid "9 august 1999"
+#~ msgstr "9 august 1999"
